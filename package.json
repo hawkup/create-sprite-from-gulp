@@ -1,0 +1,21 @@
+{
+  "name": "create-sprite-from-gulp",
+  "version": "1.0.0",
+  "description": "Combine image to sprite by using gulp and generate scss file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gulp",
+    "sprite",
+    "image",
+    "png"
+  ],
+  "author": "http://github.com/hawkup",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp.spritesmith": "^4.2.4"
+  }
+}
